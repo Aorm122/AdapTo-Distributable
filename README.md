@@ -1,4 +1,4 @@
-# AdapTo 🚀
+# AdapTo 🤖
 
 [![Latest Release](https://img.shields.io/github/v/release/Aorm122/AdapTo-Distributable?color=blue&label=Latest%20Build)](https://github.com/Aorm122/AdapTo-Distributable/releases/latest)
 
