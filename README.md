@@ -10,6 +10,6 @@ To get started with the latest version of AdapTo, download the standalone packag
 
 ## 🛠️ Quick Start
 1. **Extract** the `.7z` file using WinRAR or 7-Zip.
-2. **Setup Key:** Open `gemini_key.txt` and paste your Gemini API Key.
+2. **Setup Key:** Open `gemini.env` and paste your Gemini API Key.
 3. **Launch:** Run `AdapTo.exe`.
 4. **READ:** Open README.txt
