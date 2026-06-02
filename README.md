@@ -5,17 +5,11 @@
 
 An exported Godot project of AdapTo, ready for distribution.
 
-## 📥 Download Latest Release
-
-[📦 Download AdapTo.7z](https://github.com/Aorm122/AdapTo-Distributable/releases/download/v1.0-uat/AdapTo.7z)
-
----
-
 ## 📝 About
 
 This repository contains the distributable version of the AdapTo Godot project. All assets, configurations, and executables are exported and ready for deployment.
 
-## 🔗 Links
+## 🔗 Links | 📥 Releases
 
 - **Latest Release:** [View all releases](https://github.com/Aorm122/AdapTo-Distributable/releases)
 - **Project Repository:** [AdapTo-Distributable](https://github.com/Aorm122/AdapTo-Distributable)
