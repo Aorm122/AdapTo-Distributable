@@ -7,8 +7,6 @@ An exported Godot project of AdapTo, ready for distribution.
 
 ## 📥 Download Latest Release
 
-**Current Version:** [v1.0-uat](https://github.com/Aorm122/AdapTo-Distributable/releases/tag/v1.0-uat)
-
 [📦 Download AdapTo.7z](https://github.com/Aorm122/AdapTo-Distributable/releases/download/v1.0-uat/AdapTo.7z)
 
 ---
