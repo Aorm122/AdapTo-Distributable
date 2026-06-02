@@ -2,7 +2,6 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/Aorm122/AdapTo-Distributable?style=for-the-badge&logo=github&label=Latest%20Release)](https://github.com/Aorm122/AdapTo-Distributable/releases/latest)
 [![Repository](https://img.shields.io/badge/GitHub%20Repository-Aorm122%2FAdapTo--Distributable-blue?style=for-the-badge&logo=github)](https://github.com/Aorm122/AdapTo-Distributable)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 An exported Godot project of AdapTo, ready for distribution.
 
