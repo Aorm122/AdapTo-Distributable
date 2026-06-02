@@ -10,13 +10,6 @@ An exported Godot project of AdapTo, ready for distribution.
 
 ---
 
-## 📋 Version History
-
-| Version | Release Date | Download |
-|---------|--------------|----------|
-| [v1.0-uat](https://github.com/Aorm122/AdapTo-Distributable/releases/tag/v1.0-uat) | April 22, 2026 | [AdapTo.7z](https://github.com/Aorm122/AdapTo-Distributable/releases/download/v1.0-uat/AdapTo.7z) |
-
----
 
 ## 📝 About
 
@@ -34,7 +27,9 @@ This repository contains the distributable version of the AdapTo Godot project. 
 1. Download the latest `AdapTo.7z` file from the [releases page](https://github.com/Aorm122/AdapTo-Distributable/releases)
 2. Extract the archive to your desired location
 3. Run the executable to launch AdapTo
+4. Create a .txt file named api_key
+5. Create a Google AI Studio Gemini key and paste it inside the created .txt file
 
 ---
 
-*Last Updated: June 2, 2026*
+
