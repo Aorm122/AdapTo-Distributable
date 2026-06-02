@@ -1,0 +1,1 @@
+Paste an API key made in Google AI Studio inside the .txt file 
