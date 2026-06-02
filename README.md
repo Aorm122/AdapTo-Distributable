@@ -34,4 +34,4 @@ This repository contains the distributable version of the AdapTo Godot project. 
 
 ---
 
-*Last Updated: June 2, 2026*
+
